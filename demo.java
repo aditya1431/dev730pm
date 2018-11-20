@@ -1,3 +1,8 @@
+void branchMethod()
+{
+  ---------
+  ---------
+}
 class demo
 {
   p.s.void main(..)
