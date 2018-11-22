@@ -1,3 +1,7 @@
+void Deposite()
+{
+  .......
+}
 void main()
 {
   ......
