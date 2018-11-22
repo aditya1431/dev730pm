@@ -1,3 +1,12 @@
+void ADDITION()
+{
+  C=A+B
+}
+void SUBTRACTION()
+{
+  C=A-B
+}
+
 void masterMethod()
 {
   .............
