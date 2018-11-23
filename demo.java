@@ -1,3 +1,7 @@
+ANSIBLE PUPPET
+CHEF DOCKER 
+JENKINS ......
+
 void DIV()
 {
   C=A/B
